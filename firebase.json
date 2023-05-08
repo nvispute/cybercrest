@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "cybercrest-test-website",
+    "public": ".",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
