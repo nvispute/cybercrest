@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "cybercrest.in",
+  "Id": "5052f654-cf5e-4af2-8d44-bb919882998a"
+}
